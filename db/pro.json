@@ -1,0 +1,10 @@
+{
+	"products":[
+   	 {"id":1, "name":"asd","price":25, "categoryId":1,"description":"açıklama","imageUrl":"link"},
+	 {"id":2, "name":"asd","price":25, "categoryId":1,"description":"açıklama","imageUrl":"link"}
+	],
+	"categories":[
+	{"id":1, "name":"House"},
+   	{"id":1, "name":"Pc"}
+	]
+}
